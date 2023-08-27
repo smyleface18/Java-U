@@ -11,10 +11,9 @@ package com.mycompany.javau;
 public class JavaU {
 
     public static void main(String[] args) {
-        int number1,number2;
-        number1=2; number2=4;
-        
-        System.out.println("la suma es: " + (number1+number2));
-        
+        int work_days;
+        work_days= 23;
+        final int day_value=2000;
+        System.out.println("El valor a pagar es: "+(work_days*day_value));
     }
 }
