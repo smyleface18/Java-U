@@ -143,5 +143,43 @@ public class JavaU {
                 System.out.println(number*i);
                 }
                 */
+                
+                
+                
+                
+                ///////////////////////////////////////////////////////////////////////////////////////////////////////////
+                
+                
+                
+                
+                
+                /*
+                final double minimum_salary=1160000;
+                double offer_salary;
+                Scanner read=new Scanner(System.in);
+                System.out.println("Ingrese la oferta de salario: ");
+                offer_salary=read.nextDouble();
+                if (offer_salary>minimum_salary)
+                    {
+                        System.out.println("Acepta el puesto de trabajo");
+                    }
+                else 
+                    {
+                        System.out.println("Rechaza el puesto de trabajo");
+                    }
+                
+                */
+                
+                
+                int age;
+                context sex;
+                Scanner read=new Scanner(System.in);
+                System.out.println("Ingrese la edad: ");
+                age=read.nextInt();
+                System.out.println("Ingrese el sexo: ");
+                sex=
+                
+                
+                
             }
 }
