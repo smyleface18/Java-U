@@ -1,18 +1,15 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-
-package com.mycompany.javau;
 
 /**
  *
  * @author caleb
  */
-import java.util.Scanner;
-public class JavaU {
-
+public class ClassOneParcial {
     public static void main(String[] args) {
-    
+        
         
     }
 }
