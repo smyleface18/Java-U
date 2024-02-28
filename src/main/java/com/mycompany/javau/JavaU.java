@@ -13,10 +13,5 @@ public class JavaU {
 
     public static void main(String[] args) {
         
-        String hl="32";
-        String er="32";
-        
-        int kjl = Integer.parseInt(hl);
-        
     }
 }
